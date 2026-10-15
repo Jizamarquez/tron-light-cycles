@@ -1,0 +1,13 @@
+# Arquivos gerados pelo Greenfoot / Java
+*.class
+*.ctxt
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+__MACOSX/
+
+# Backups e temporários
+*.bak
+*~
