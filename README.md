@@ -8,9 +8,20 @@ Jogo de ciclos de luz inspirado no clássico Tron, feito em **Java** com o **Gre
 
 > **English summary:** a Tron-inspired light-cycle game built in Java with Greenfoot, featuring local 2-player mode, an AI opponent with 3 difficulty levels, power-ups, a pause system and neon-style menus/HUD.
 
-<!-- Coloque aqui um GIF ou imagem do jogo. Exemplo:
-![Demonstração do jogo](docs/demo.gif)
--->
+<img width="1609" height="926" alt="Captura de tela 2026-10-15 195246" src="https://github.com/user-attachments/assets/2e881e4d-92fa-4621-9aa2-20f85cacb09d" />
+
+
+https://github.com/user-attachments/assets/2b79af0b-b83b-483b-86fd-a710a79e5ee9
+
+
+
+
+https://github.com/user-attachments/assets/bebd4121-fd7e-41be-bf18-42ad9d629327
+
+
+
+
+
 
 ## Funcionalidades
 
