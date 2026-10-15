@@ -92,6 +92,6 @@ As dificuldades mudam dois parâmetros:
 
 ## Sobre
 
-Projeto desenvolvido por **Jiselle Marques dos Santos**, estudante de Computação na UFBA, como estudo de Java e programação orientada a objetos. O código foi evoluído com apoio de IA (Claude) para revisão, correção de bugs e melhoria da interface.
+Projeto desenvolvido por **Jiselle Marques dos Santos**, estudante de Computação na UFBA, como estudo de Java e programação orientada a objetos. 
 
 Projeto educacional, inspirado no jogo *Tron* e sem fins comerciais. Não possui qualquer vínculo com os detentores da marca.
